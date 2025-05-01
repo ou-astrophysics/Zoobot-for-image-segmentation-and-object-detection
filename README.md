@@ -1,7 +1,7 @@
 # Zoobot-for-image-segmentation-and-object-detection
 Demonstration of using Zoobot as a classification backbone for Mask R-CNN and Faster R-CNN
 
-If your using the Faster R-CNN model in your own work, please cite [![DOI](https://joss.theoj.org/papers/10.21105/joss.05312/status.svg)](https://doi.org/10.21105/joss.05312):
+If your using the Faster R-CNN model in your own work, please cite [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15316577.svg)](https://doi.org/10.5281/zenodo.15316577):
 ```latex
 @Misc{Popp2025,
   author    = {Popp, Jürgen Joseph},
